@@ -6,7 +6,7 @@ Hi there 👋<br><br>My name is Zeeta, I am a second year Computer Science <br>s
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zeeta-tanoh-rivers/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/zeeta-tanoh-rivers) 
 
 ---
 
